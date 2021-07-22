@@ -211,7 +211,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="Community",
-                             url="https://t.me/TeamAlphaCommunity")
+                             url="https://t.me/TheTeamAlpha")
                     ]]))
                      
                     
