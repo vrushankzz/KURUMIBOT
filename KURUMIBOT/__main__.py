@@ -197,21 +197,21 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="🚨 Support 🚨",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             text="Support ",
+                             url=f"https://t.me/ValenciaSupport"),
                          InlineKeyboardButton(
                              text="My luv ❤",
-                             url="https://t.me/A_lonelyPerson")
+                             url="https://t.me/ValenciaOwner")
                     ], 
                      [
                          InlineKeyboardButton(
-                             text="🔔 Updates of KURUMI 🔔",
-                             url="https://t.me/hiroiscool")
+                             text="🔔 Updates of Valenicia🔔",
+                             url="https://t.me/valenciaupdates")
                     ], 
                      [
                          InlineKeyboardButton(
-                             text="📳 Anime Chat Group 📳",
-                             url="https://t.me/WeebXWorld")
+                             text="Community",
+                             url="https://t.me/TeamAlphaCommunity")
                     ]]))
                      
                     
